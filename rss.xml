@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[OdinTest]]></title>
         <description><![CDATA[OdinTest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/odintest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 17:01:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 17:02:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/odintest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/odintest/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">3910e7f9-3ba1-402c-874c-8f13b4e9e93a</guid>
-            <pubDate>Thu, 10 Dec 2015 17:01:28 GMT</pubDate>
+            <pubDate>Thu, 10 Dec 2015 17:01:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
