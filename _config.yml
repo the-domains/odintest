@@ -1,7 +1,7 @@
 name: OdinTest
 favicon: null
-layout_spectrum: 0.9418332816567272
-typography_spectrum: 0.11485273786820471
+layout_spectrum: 1
+typography_spectrum: 0.4608
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.690932719502598
-  lightness: 0.17606639047153294
-  saturation: 0.2622679022606462
-  rhythmicContrast: 0.1946517254691571
+    - '#acaba7'
+    - '#474f52'
+    - '#e8a608'
+    - '#bb8715'
+    - '#f5fd70'
+  brandStrength: 0.4375
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
